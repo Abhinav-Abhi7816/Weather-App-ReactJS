@@ -1,0 +1,10 @@
+.backGround{
+    background: url("Images/Weather-Bg.jpg");
+    background-position:center;
+    background-size: cover;
+    
+}
+.anim:hover{
+    border-bottom:0.3rem #fff700 solid;
+    transition:0.3s ease-in-out;
+}
